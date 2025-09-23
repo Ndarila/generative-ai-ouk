@@ -32,3 +32,4 @@ cd generative-ai-ouk
 
 ```bash
 pip install -r requirements.txt
+
