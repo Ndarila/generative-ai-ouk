@@ -21,10 +21,10 @@ generative-ai-ouk/
 
 ---
 
+## How to Use
+
 1. **Clone this repository:**
 
 ```bash
 git clone https://github.com/Ndarila/generative-ai-ouk.git
 cd generative-ai-ouk
-
-
