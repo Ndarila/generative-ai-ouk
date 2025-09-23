@@ -28,3 +28,7 @@ generative-ai-ouk/
 ```bash
 git clone https://github.com/Ndarila/generative-ai-ouk.git
 cd generative-ai-ouk
+2. **Install required packages:**
+
+```bash
+pip install -r requirements.txt
