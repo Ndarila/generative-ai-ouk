@@ -80,7 +80,3 @@ Demonstrates Jac walkers, nodes, AI integration (byLLM), and CSV export.
 
 Great for assignments, interactive reports, or learning Jac programming.
 
-✅ Next Steps
-Add more projects or assignments to the repository.
-
-Keep the README updated with screenshots, ASCII examples, or explanations for clarity.
