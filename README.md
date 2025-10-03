@@ -28,3 +28,26 @@ generative-ai-ouk/
 ```bash
 git clone https://github.com/Ndarila/generative-ai-ouk.git
 cd generative-ai-ouk
+
+---
+
+## Report Card Generator (Jac)
+
+**File:** `projects/report_card.jac`
+
+A dynamic Report Card Generator built with the Jac programming language and AI-enhanced hints.
+
+### Features
+- Interactive CLI input: add student names and grades live.
+- Subject-wise grades for multiple subjects per student.
+- AI-powered feedback for low grades.
+- Dynamic ranking & gamification: badges for top students.
+- Term-wise trends showing performance improvement/decline.
+- Animated ASCII progress bars in the CLI.
+- CSV export: results saved automatically.
+
+### How to Use
+1. Ensure Jac is installed:
+
+```bash
+pip install jaclang
