@@ -25,12 +25,10 @@ generative-ai-ouk/
 
 1. **Clone this repository:**
 
-```bash
 git clone https://github.com/Ndarila/generative-ai-ouk.git
 cd generative-ai-ouk
 Install required Python packages:
 
-bash
 Copy code
 pip install -r requirements.txt
 Report Card Generator (Jac)
@@ -56,14 +54,12 @@ CSV export: results saved automatically.
 How to Use
 Ensure Jac is installed:
 
-bash
 Copy code
 pip install jaclang
 Open the file in a Jac environment (Jupyter Notebook with Jac kernel or Colab with Jac installed).
 
 Run the program:
 
-bash
 Copy code
 jac run projects/report_card.jac
 Follow the interactive prompts to add students and grades.
@@ -71,7 +67,6 @@ Follow the interactive prompts to add students and grades.
 report_cards.csv will be generated automatically with all student data.
 
 Example Output (ASCII CLI)
-yaml
 Copy code
 --- Report Card: Alice 🏅 Honor Roll ---
 Math: 85 |█████████████
